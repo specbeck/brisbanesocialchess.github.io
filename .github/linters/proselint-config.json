@@ -1,7 +1,7 @@
 {
 	"checks": {
 		"cliches.write_good": false,
-		"phrasal_adjectives.ly": false,
+		"garner.phrasal_adjectives.ly": false,
 		"lexical_illusions.misc": false,
 		"typography.diacritical_marks": false,
 		"typography.exclamation": false,
